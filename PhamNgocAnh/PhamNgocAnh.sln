@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUngDung", "TestUngDung\TestUngDung.csproj", "{707B4F56-F8CA-48EA-A37E-6411E48CFD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelEF", "ModelEF\ModelEF.csproj", "{BFBFF250-370A-4EA9-A2BD-76AD441D065B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{707B4F56-F8CA-48EA-A37E-6411E48CFD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707B4F56-F8CA-48EA-A37E-6411E48CFD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707B4F56-F8CA-48EA-A37E-6411E48CFD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707B4F56-F8CA-48EA-A37E-6411E48CFD77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFBFF250-370A-4EA9-A2BD-76AD441D065B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFBFF250-370A-4EA9-A2BD-76AD441D065B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFBFF250-370A-4EA9-A2BD-76AD441D065B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFBFF250-370A-4EA9-A2BD-76AD441D065B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637943BC-D4A0-40FB-940F-DEAA42BB951E}
+	EndGlobalSection
+EndGlobal
